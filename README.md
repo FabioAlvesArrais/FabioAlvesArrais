@@ -13,5 +13,5 @@
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-###### Sou apaixonado Por tecnologia comecei em 2022 o curso de Data Scienci, estou fazendo o curso de progrmação pelo Pragrama de treinamento da Oracle na plataforma da Alura e um Bootcamp do Carrefour web developer na plataforma da DIO.
+#### Sou apaixonado Por tecnologia comecei em 2022 o curso de Data Scienci, estou fazendo o curso de progrmação pelo Pragrama de treinamento da Oracle na plataforma da Alura e um Bootcamp do Carrefour web developer na plataforma da DIO.
 
